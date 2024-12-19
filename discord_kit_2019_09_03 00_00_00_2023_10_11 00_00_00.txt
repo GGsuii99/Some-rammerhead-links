@@ -1,0 +1,2085 @@
+==============================================================
+Guild: Rammerhead Support Server
+Channel: information shark / public-domain-list
+Topic: See the pinned message here for info on how to add a domain.
+After: 09/03/2019 00:00
+Before: 10/11/2023 00:00
+==============================================================
+
+[01/19/2022 03:30] 011011000110111101101100 (pinned)
+**Public Domain List**
+To add yours here, add the CNAME record `browser.rammerhead.org` to your domain then type `/add-public-domain` in <#886643474898776146>. If you cannot add a CNAME, add the A record `108.181.32.77` (not recommended as this can possibly change).
+
+If you're adding it behind a Cloudflare proxy, you must first be whitelisted with <@&938187445822959679>. Then do the following:
+- select "Full (strict)" under "SSL/TLS"
+- turn off "Always Use HTTPS" under "Edge Certificates"
+
+{Reactions}
+👍 (36) 💀 (2) 🧢 🫡 (2) 🎉 🥜 🐱 🍕 🦅 🇺🇸 💣 🔫 🍔 🤓 😈 👽
+
+[01/20/2022 01:00] 011011000110111101101100
+**Notice**
+Domains with inappropriate names *will be removed.*
+
+{Reactions}
+BOOHOO (62) 🧸 (22) 🇩 (15) 🇺 (13) 🇨 (14) 🇰 (15) powercry (11) 🧢 (12) 🇸 (7) 🇭 (5) 🔽 (5) 🍆 (3) 👍 (2) ✅ 🤑
+
+[01/20/2022 03:11] Rammerhead Bot#5437
+🟢 <https://direct2.rammerhead.org> (direct_a_record) by <@497551576588746768>
+
+{Reactions}
+❌ (3) ✅ (3)
+
+[03/22/2022 11:38] Rammerhead Bot#5437
+🟢 <https://direct.rammerhead.org> (direct_a_record) by <@497551576588746768>
+
+{Reactions}
+❌ (3) ✅ (2)
+
+[04/26/2022 02:39] Rammerhead Bot#5437
+🟢 <https://browser.rammerhead.org> (direct_cname) by <@497551576588746768>
+
+{Reactions}
+❌ (5) ✅ (2)
+
+[08/31/2022 02:11] Rammerhead Bot#5437
+🔴 <https://bananaboat.me> (direct_cname) by <@1006903923518476308>
+
+{Reactions}
+🍌 (2) ❌ (4)
+
+[08/31/2022 02:34] Rammerhead Bot#5437
+🟢 <https://rammer.camdvr.org> (direct_a_record) by <@927322738677391421>
+
+{Reactions}
+😂 (20) ✅ ❌ (2)
+
+[08/31/2022 02:42] Rammerhead Bot#5437
+🟢 <https://rammer.giize.com> (direct_a_record) by <@927322738677391421>
+
+{Reactions}
+✅ ❌ (2)
+
+[09/25/2022 17:24] Rammerhead Bot#5437
+🟢 <https://cloudflare.rammerhead.org> (cloudflare_a_record) by <@497551576588746768>
+
+{Reactions}
+❌ (3) ✅ (2)
+
+[10/18/2022 12:07] Rammerhead Bot#5437
+🟢 <https://rx.blackxfiied.xyz> (direct_cname) by <@453194229930524672>
+
+{Reactions}
+🅰️ (7) 🇮 (5) 🇹 (5) ⬜ (3) 🇦 (7) 🇨 (5) ©️ (3) 👽 ❌ ✅ (2)
+
+[11/01/2022 11:09] Rammerhead Bot#5437
+🔴 <https://rd.globalcentauri.tech> (direct_cname) by <@772440585353166858>
+
+{Reactions}
+❌ (3)
+
+[12/02/2022 00:49] Rammerhead Bot#5437
+🔴 <https://rh.lhost.dev> (direct_cname) by <@710268763844640839>
+
+{Reactions}
+✅ (3)
+
+[12/02/2022 01:00] Rammerhead Bot#5437
+🔴 <https://chrome.lhost.dev> (direct_cname) by <@710268763844640839>
+
+{Reactions}
+✅ (2) ❌ (4)
+
+[12/02/2022 01:00] Rammerhead Bot#5437
+🔴 <https://blocked.lhost.dev> (direct_cname) by <@710268763844640839>
+
+{Reactions}
+✅ (2) ❌ (2)
+
+[12/02/2022 01:00] Rammerhead Bot#5437
+🔴 <https://tabs.lhost.dev> (direct_cname) by <@710268763844640839>
+
+{Reactions}
+👍🏻 (13) 👍 (7) ❌ (3) ✅ (3)
+
+[12/15/2022 06:01] Rammerhead Bot#5437
+🔴 <https://direct3.rammerhead.org> (direct_cname) by <@497551576588746768>
+
+{Reactions}
+❌ (3) ✅
+
+[12/20/2022 07:59] Rammerhead Bot#5437
+🟢 <https://direct5.rammerhead.org> (direct_a_record) by <@497551576588746768>
+
+{Reactions}
+❌ (3) 🅱️ 🇱 ⭕ 🇨 🇰 🇪 🇩 ✅
+
+[12/25/2022 11:37] Rammerhead Bot#5437
+🔴 <https://im.not.r.aci.st> (direct_cname) by <@325116477185196033>
+
+{Reactions}
+🆒 (12) 🙊 (12) ✅ ❌ (3)
+
+[01/14/2023 22:23] Rammerhead Bot#5437
+🔴 <https://rammerhead.izooc.ninja> (direct_cname) by <@381766784505741312>
+
+{Reactions}
+❌ (6)
+
+[01/20/2023 18:41] Rammerhead Bot#5437
+🔴 <https://cobalt.bz> (direct_cname) by <@1040316071263076454>
+
+{Reactions}
+🅱️ (11) L_ (9) 🇧 (8) 🇱 (8) 🇴 (8) 🇨 (8) 🇰 (8) 🇪 (8) 🇩 (8) 🍞 (8) ❌ (4) 🚫 (3)
+
+[01/29/2023 17:36] Rammerhead Bot#5437
+🔴 <https://direct6.rammerhead.org> (direct_cname) by <@497551576588746768>
+
+{Reactions}
+🇧 (19) 🇱 (19) 🇴 (19) 🇨 (20) 🇰 (19) 🇪 (19) 🇩 (19) 🚫 (16) ❌ (4) ✅
+
+[02/03/2023 05:02] Rammerhead Bot#5437
+🔴 <https://xtyl.run.place> (direct_a_record) by <@627947214576025610>
+
+{Reactions}
+👎 (6) ✅ (10) 🚫 (11) ❌ (4)
+
+[02/03/2023 05:06] Rammerhead Bot#5437
+🔴 <https://www.xtyl.run.place> (direct_cname) by <@627947214576025610>
+
+{Reactions}
+🚫 (12) ❌ (3)
+
+[02/04/2023 23:11] Rammerhead Bot#5437
+🟢 <https://direct7.rammerhead.org> (direct_a_record) by <@497551576588746768>
+
+{Reactions}
+👍 (3) 🚫 (8) ❌ (4) ✅
+
+[02/07/2023 03:17] Rammerhead Bot#5437
+🔴 <https://math.linkpc.net> (direct_a_record) by <@768587675644461086>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[02/07/2023 03:22] Rammerhead Bot#5437
+🟢 <https://rammerhead.duckdns.org> (direct_a_record) by <@1001896721149857875>
+
+{Reactions}
+🚫 (4) 👍 (4) ❌ (3)
+
+[02/07/2023 03:22] Rammerhead Bot#5437
+🟢 <https://schoolisfun.duckdns.org> (direct_a_record) by <@1001896721149857875>
+
+{Reactions}
+🚫 (4) ✅ (3) ❌
+
+[02/10/2023 22:01] Rammerhead Bot#5437
+🔴 <https://dm-me-if-i-should-make-more.interstellars.live> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+✅ (4) ❌ (5) 👍 (3)
+
+[02/10/2023 22:06] Rammerhead Bot#5437
+🔴 <https://i-might-buy-domains.tethersmathwebsite.app> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+👍 (5) ❌ (2) ✅
+
+[02/15/2023 23:53] Rammerhead Bot#5437
+🔴 <https://r.learnmathub.com> (direct_cname) by <@746070931306184826>
+
+{Reactions}
+🇩 (14) 🇮 (12) 🇨 (15) 🇰 (13) 🇸 (13) 🥵 (13) ✅ (21) 🫃 (4) 🙉 (4) 👍 (7) 🇧 (3) 🇱 (2) 🇴 (3) 💀 (4) 🤓 (2) 🚫 (6) ROACH ❌
+
+[02/23/2023 08:41] Rammerhead Bot#5437
+🔴 <https://z0ngt.publicvm.com> (direct_a_record) by <@985241784428925018>
+
+{Reactions}
+✅ (20) gay (9) ❌ (12)
+
+[02/24/2023 15:12] Rammerhead Bot#5437
+🔴 <https://search.mugmovies.pics> (direct_cname) by <@292742758098141184>
+
+{Reactions}
+check (33) 🚫 (21) ✅ (4) 😃 ❌ (2)
+
+[03/10/2023 16:46] Rammerhead Bot#5437
+🔴 <https://freednstest.minetest.land> (direct_a_record) by <@439857695156076554>
+
+{Reactions}
+✅ (8) 🚫 (5) 🇩 🇮 🇨 🇰 🇸 😂 (2) ❌ (2)
+
+[03/11/2023 15:22] Rammerhead Bot#5437
+🔴 <https://drasticmeasures.daustin.com> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+✅ (8) ❌
+
+[03/11/2023 15:23] Rammerhead Bot#5437
+🔴 <https://goahead.pii.at> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+✅ (6) 👍 (4) ❌
+
+[03/11/2023 16:31] Rammerhead Bot#5437
+🔴 <https://mathematics.public.li> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+✅ (9) ❌ (2)
+
+[03/11/2023 16:31] Rammerhead Bot#5437
+🔴 <https://visualstudio.vslui.info> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+⚠️ (7) ✅ (4) ❌
+
+[03/11/2023 19:47] Rammerhead Bot#5437
+🔴 <https://error418.cobos.mx> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+✅ (8) ❌
+
+[03/11/2023 20:02] Rammerhead Bot#5437
+🔴 <https://wholesome.2028.cl> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+❌ (2)
+
+[03/11/2023 20:03] Rammerhead Bot#5437
+🔴 <https://nextweek.flazzard.com> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+❌
+
+[03/11/2023 20:03] Rammerhead Bot#5437
+🔴 <https://extensionundo.gentile.cc> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+✅ (9) 🇼 (2) ❌
+
+[03/14/2023 02:14] Rammerhead Bot#5437
+🔴 <https://streakingfire2.dharma.cl> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+✅ (2) ❌
+
+[03/14/2023 03:21] Rammerhead Bot#5437
+🔴 <https://freenomneverfixed.ignorelist.com> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+✅ (2) ❌
+
+[03/14/2023 13:04] Rammerhead Bot#5437
+🔴 <https://diwect.minecraftpotato.com> (direct_cname) by <@780207741603414018>
+
+{Reactions}
+❌ (6)
+
+[03/14/2023 13:23] Rammerhead Bot#5437
+🔴 <https://learnabout.minecraft.pe> (direct_a_record) by <@780207741603414018>
+
+{Reactions}
+❌ (2)
+
+[03/14/2023 14:33] Rammerhead Bot#5437
+🔴 <https://extrafries.jqi.nz> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+❌
+
+[03/14/2023 14:33] Rammerhead Bot#5437
+🔴 <https://biggiecheese.spembroke.com> (direct_a_record) by <@611346883591405589>
+
+{Reactions}
+✅ (3) ❌
+
+[03/15/2023 17:26] Rammerhead Bot#5437
+🔴 <https://nebulalearning.uk.to> (direct_cname) by <@865970902626074655>
+
+{Reactions}
+✅ ❌
+
+[03/16/2023 22:06] Rammerhead Bot#5437
+🔴 <https://www.freednstestspot.minetest.land> (direct_cname) by <@957415067471716463>
+
+{Reactions}
+✅ (2) ❌ (3)
+
+[03/16/2023 22:18] Rammerhead Bot#5437
+🔴 <https://www.resettestscore.bedwell.org> (direct_cname) by <@957415067471716463>
+
+{Reactions}
+✅ (3) ❌ (2)
+
+[03/16/2023 22:22] Rammerhead Bot#5437
+🔴 <https://www.school4fun.birchmeier.org> (direct_cname) by <@957415067471716463>
+
+{Reactions}
+✅ (4) 👍 ❌ (2)
+
+[03/16/2023 23:20] Rammerhead Bot#5437
+🔴 <https://www.mathusers.linkpc.net> (direct_cname) by <@957415067471716463>
+
+{Reactions}
+✅ (2) ❌ (2)
+
+[03/16/2023 23:34] Rammerhead Bot#5437
+🔴 <https://www.mathusers.publicvm.com> (direct_cname) by <@957415067471716463>
+
+{Reactions}
+✅ (2) ❌ (3)
+
+[03/23/2023 03:07] Rammerhead Bot#5437
+🟢 <https://historyaboutthe.us.to> (direct_a_record) by <@705180116577157144>
+
+{Reactions}
+❌ (9) checkmark (16) 🍉 (2) ✅ (3)
+
+[03/23/2023 22:26] Rammerhead Bot#5437
+🔴 <https://jamaljackson.strangled.net> (direct_cname) by <@783740217621872670>
+
+{Reactions}
+❌ (7) 🍆 (4) ✅
+
+[03/23/2023 23:03] Rammerhead Bot#5437
+🔴 <https://proxy.monkxy.org> (direct_cname) by <@740280118789800027>
+
+{Reactions}
+✅ (4) ❌ (10)
+
+[03/25/2023 13:29] Rammerhead Bot#5437
+🔴 <https://sitemath.smathis.com> (direct_cname) by <@566000976989913089>
+
+{Reactions}
+✅ (8) ❌ (6) 😩 (3) 😳 (3) 😭
+
+[03/28/2023 16:18] Rammerhead Bot#5437
+🔴 <https://savvas.learner.wiki.gd> (direct_cname) by <@865970902626074655>
+
+{Reactions}
+❌ (6) ✅
+
+[03/28/2023 16:25] Rammerhead Bot#5437
+🔴 <https://extra.math.questions.wiki.gd> (direct_cname) by <@865970902626074655>
+
+{Reactions}
+❌ (5) ✅ (2)
+
+[03/28/2023 22:35] Rammerhead Bot#5437
+🔴 <https://soap.twilightparadox.com> (direct_cname) by <@716750040265392218>
+
+{Reactions}
+👍 (2) ❌ (5)
+
+[03/28/2023 22:47] Rammerhead Bot#5437
+🔴 <https://soap.serverpit.com> (direct_cname) by <@716750040265392218>
+
+{Reactions}
+✅ (4) ❌ (5)
+
+[03/29/2023 23:05] Rammerhead Bot#5437
+🔴 <https://school.not.needed.run.place> (direct_a_record) by <@865970902626074655>
+
+{Reactions}
+✅ ❌
+
+[03/29/2023 23:48] Rammerhead Bot#5437
+🔴 <https://studyfreeforlife.ignorelist.com> (direct_cname) by <@524777955420012554>
+
+{Reactions}
+👍 👎 (4) ❌ (2)
+
+[03/30/2023 00:10] Rammerhead Bot#5437
+🔴 <https://sourstudying.jumpingcrab.com> (direct_cname) by <@524777955420012554>
+
+{Reactions}
+👍 👎 (4) ❌ (2)
+
+[03/30/2023 00:17] Rammerhead Bot#5437
+🔴 <https://ikickkids.strangled.net> (direct_cname) by <@524777955420012554>
+
+{Reactions}
+👍 (2) 👎 (2) ✅ ❌
+
+[03/30/2023 00:19] Rammerhead Bot#5437
+🔴 <https://mcrosoftword.crabdance.com> (direct_cname) by <@524777955420012554>
+
+{Reactions}
+👍 👎 (2) ❌ (2)
+
+[03/30/2023 01:03] Rammerhead Bot#5437
+🟢 <https://studywithothers.ooguy.com> (direct_a_record) by <@524777955420012554>
+
+{Reactions}
+👍 (3) 👎 ✅ ❌
+
+[03/30/2023 01:12] Rammerhead Bot#5437
+🟢 <https://pizzaman.theworkpc.com> (direct_a_record) by <@524777955420012554>
+
+{Reactions}
+👍 (3) 👎 (3) ✅ ❌
+
+[03/30/2023 01:20] Rammerhead Bot#5437
+🟢 <https://synapsex.mywire.org> (direct_a_record) by <@524777955420012554>
+
+{Reactions}
+👍 (5) 👎 (4) ✅ ❌
+
+[03/30/2023 12:56] Rammerhead Bot#5437
+🔴 <https://troubleshoot.the.linkpc.net> (direct_a_record) by <@865970902626074655>
+
+{Reactions}
+😭 (6) 😒 (4) ❌
+
+[03/31/2023 11:04] Rammerhead Bot#5437
+🔴 <https://imso.chickenkiller.com> (direct_cname) by <@716750040265392218>
+
+{Reactions}
+✅
+
+[03/31/2023 12:46] Rammerhead Bot#5437
+🔴 <https://hondaaccord.hondascooterparts.com> (direct_cname) by <@702378190005600348>
+
+{Reactions}
+❌
+
+[03/31/2023 21:52] Rammerhead Bot#5437
+🔴 <https://www.workingnow.tantrum.org> (direct_cname) by <@957415067471716463>
+
+{Reactions}
+❌
+
+[03/31/2023 23:09] Rammerhead Bot#5437
+🔴 <https://aaanahhman.run.place> (direct_a_record) by <@1087872150553235457>
+
+{Reactions}
+✅
+
+[04/01/2023 17:14] Rammerhead Bot#5437
+🔴 <https://wildcard.linkpc.net> (direct_cname) by <@566000976989913089>
+
+{Reactions}
+⭐ (2) ❌
+
+[04/02/2023 14:11] Rammerhead Bot#5437
+🔴 <https://icespicelovers.mooo.com> (direct_a_record) by <@606116619915231232>
+
+{Reactions}
+👍 (3) ✅
+
+[04/03/2023 11:57] Rammerhead Bot#5437
+🔴 <https://tbhicedfired.cobos.mx> (direct_cname) by <@1087872150553235457>
+
+{Reactions}
+😭 (4) ❌ (4) ✅ (2)
+
+[04/03/2023 18:19] Rammerhead Bot#5437
+🔴 <https://imsittingon.hiscouch.com> (direct_a_record) by <@439857695156076554>
+
+{Reactions}
+💀 (4) ❌ ✅
+
+[04/04/2023 17:32] Rammerhead Bot#5437
+🔴 <https://whathe.donhoo.com> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+❌ ✅
+
+[04/04/2023 17:33] Rammerhead Bot#5437
+🔴 <https://techno-never.dies.minecraftpotato.com> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+❌ (2) 🐖 (5) ✅ 🇾 🇪 🇸 🇮
+
+[04/04/2023 17:33] Rammerhead Bot#5437
+🔴 <https://freenomsuedbyfacebook.soon.it> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+❌ (2) 😭 (2)
+
+[04/04/2023 17:33] Rammerhead Bot#5437
+🔴 <https://whatthe.xn--72cg7bdd3bro6b3ab9c8btw4x.com> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+❌ ✅ (3)
+
+[04/04/2023 17:33] Rammerhead Bot#5437
+🔴 <https://what.xn--cnqxy420li2r.hk> (direct_cname) by <@976219146914254858>
+
+{Reactions}
+❌ ✅ (4)
+
+[04/04/2023 22:29] Rammerhead Bot#5437
+🔴 <https://science.sciencevictory.org> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+❌
+
+[04/04/2023 23:16] Rammerhead Bot#5437
+🔴 <https://ilikemen423910.cobos.mx> (direct_cname) by <@1070499916553662574>
+
+{Reactions}
+✅
+
+[04/04/2023 23:20] Rammerhead Bot#5437
+🔴 <https://somanygaymenkissing.cobos.mx> (direct_cname) by <@1070499916553662574>
+
+{Reactions}
+✅ 👎
+
+[04/05/2023 02:14] Rammerhead Bot#5437
+🟢 <https://learn.youpc.ro> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅ (3) ❌
+
+[04/05/2023 02:45] Rammerhead Bot#5437
+🔴 <https://thesesubdomainsare.good.one.pl> (direct_cname) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/05/2023 02:48] Rammerhead Bot#5437
+🔴 <https://learnto.propaint.cl> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/05/2023 02:50] Rammerhead Bot#5437
+🔴 <https://go-on-a.perfect-diet.com> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅ ❌
+
+[04/05/2023 07:15] Rammerhead Bot#5437
+🔴 <https://dilligaf.dob.jp> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/05/2023 07:15] Rammerhead Bot#5437
+🔴 <https://a.open-window.de> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/05/2023 07:15] Rammerhead Bot#5437
+🔴 <https://b.simpleplantdesign.com> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/05/2023 22:34] Rammerhead Bot#5437
+🔴 <https://bozolol.panel-laboralcj.gob.mx> (direct_cname) by <@1087872150553235457>
+
+{Reactions}
+✅ (2)
+
+[04/06/2023 00:07] Rammerhead Bot#5437
+🔴 <https://schoolz.hardsoft.nu> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/06/2023 00:07] Rammerhead Bot#5437
+🔴 <https://writingtips.gregorius.uk> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅
+
+[04/06/2023 00:07] Rammerhead Bot#5437
+🔴 <https://schoooooool.florianschlueter.eu> (direct_a_record) by <@490763590341754890>
+
+{Reactions}
+✅ (2)
+
+[04/06/2023 01:35] Rammerhead Bot#5437
+🔴 <https://birdeducation.com.crabdance.com> (direct_a_record) by <@1015497003532308491>
+
+{Reactions}
+❌
+
+[04/06/2023 01:39] Rammerhead Bot#5437
+🔴 <https://yayschool.org.punked.us> (direct_a_record) by <@1015497003532308491>
+
+{Reactions}
+✅
+
+[04/06/2023 01:59] Rammerhead Bot#5437
+🔴 <https://schoolofdogs.crabdance.com> (direct_a_record) by <@1015497003532308491>
+
+{Reactions}
+❌
+
+[04/06/2023 02:11] Rammerhead Bot#5437
+🔴 <https://loveschool.us.to> (direct_a_record) by <@1015497003532308491>
+
+{Reactions}
+🤓 (6) ✅
+
+[04/06/2023 02:35] Rammerhead Bot#5437
+🔴 <https://tarynbaillie.ftp.sh> (direct_a_record) by <@1015497003532308491>
+
+{Reactions}
+✅
+
+[04/06/2023 14:16] Rammerhead Bot#5437
+🔴 <https://anti.virus.free.zza.pl> (direct_cname) by <@865970902626074655>
+
+{Reactions}
+✅
+
+[04/07/2023 00:05] Rammerhead Bot#5437
+🔴 <https://securiy.mooo.com> (direct_cname) by <@513432480586661908>
+
+{Reactions}
+🅱️ (3) 🇷 (4) ⭕ (4) 🇰 (4) 🇪 (3) ❌ (2)
+
+[04/07/2023 00:21] Rammerhead Bot#5437
+🔴 <https://securly.mooo.com> (direct_cname) by <@513432480586661908>
+
+{Reactions}
+✅
+
+[04/08/2023 03:46] Rammerhead Bot#5437
+🔴 <https://securly.1337.cx> (direct_a_record) by <@1015497003532308491>
+
+{Reactions}
+❌
+
+[04/08/2023 04:00] Rammerhead Bot#5437
+🔴 <https://securly.port0.org> (direct_cname) by <@1015497003532308491>
+
+{Reactions}
+✅
+
+[04/08/2023 04:03] Rammerhead Bot#5437
+🔴 <https://securly.hbmc.net> (direct_cname) by <@1015497003532308491>
+
+{Reactions}
+✅ (2)
+
+[04/08/2023 04:20] Rammerhead Bot#5437
+🔴 <https://venbirbmathalgerbra.404.mn> (direct_cname) by <@1015497003532308491>
+
+{Reactions}
+✅
+
+[04/08/2023 04:23] Rammerhead Bot#5437
+🔴 <https://securlyschooling.pii.at> (direct_cname) by <@1015497003532308491>
+
+{Reactions}
+✅ (2)
+
+[04/08/2023 04:26] Rammerhead Bot#5437
+🔴 <https://ohioacademy.ugli.se> (direct_cname) by <@1015497003532308491>
+
+{Reactions}
+👍 (7) ✅ ❌
+
+[04/08/2023 10:12] Rammerhead Bot#5437
+🔴 <https://classroom.google.com.jumpingcrab.com> (direct_a_record) by <@701457067579408516>
+
+{Reactions}
+✅
+
+[04/08/2023 22:43] Rammerhead Bot#5437
+🔴 <https://texasacademy.ugli.se> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+✅
+
+[04/08/2023 22:51] Rammerhead Bot#5437
+🔴 <https://fisdinstructure.ugli.se> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+❌ (4) ✅
+
+[04/11/2023 00:26] Rammerhead Bot#5437
+🔴 <https://sussybaka.root.sx> (direct_cname) by <@912061646845931520>
+
+{Reactions}
+✅
+
+[04/11/2023 20:20] Rammerhead Bot#5437
+🔴 <https://www.school-is-fun.publicvm.com> (direct_cname) by <@772514298126663690>
+
+{Reactions}
+❌ lanschool
+
+[04/11/2023 20:25] Rammerhead Bot#5437
+🔴 <https://www.school-isnt-fun.publicvm.com> (direct_cname) by <@772514298126663690>
+
+{Reactions}
+❌ lanschool ✅
+
+[04/11/2023 20:31] Rammerhead Bot#5437
+🔴 <https://www.scho0l-isnt-fun.publicvm.com> (direct_cname) by <@772514298126663690>
+
+{Reactions}
+🇦 (2) 🇬 (2) 🇷 (2) 🇪 (2) 📧 (2) 🇩 (2) ✅ (2)
+
+[04/11/2023 21:42] Rammerhead Bot#5437
+🔴 <https://gergshed.xn--dzei-n2a.lv> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (2)
+
+[04/12/2023 07:08] Rammerhead Bot#5437
+🔴 <https://dmoasbe.xn--dzei-n2a.lv> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (3)
+
+[04/12/2023 07:11] Rammerhead Bot#5437
+🔴 <https://sfdrjki.xn--dzei-n2a.lv> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (4)
+
+[04/12/2023 07:12] Rammerhead Bot#5437
+🔴 <https://shoolizzbud.xn--dzei-n2a.lv> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (3) ❌
+
+[04/12/2023 20:47] Rammerhead Bot#5437
+🔴 <https://farts-are-us.agriculturadigital.ar> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (3) ❌
+
+[04/12/2023 20:47] Rammerhead Bot#5437
+🔴 <https://head-bath-and-beyond.agriculturadigital.ar> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (3) ❌
+
+[04/12/2023 20:47] Rammerhead Bot#5437
+🔴 <https://how-is-this-a-good-thing-you-tell-me.agriculturadigital.ar> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (3) ❌
+
+[04/12/2023 20:48] Rammerhead Bot#5437
+🔴 <https://weiugher.agriculturadigital.ar> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+✅ (3)
+
+[04/12/2023 20:48] Rammerhead Bot#5437
+🔴 <https://whenipoppedoff.agriculturadigital.ar> (direct_a_record) by <@772514298126663690>
+
+{Reactions}
+❌ (4) ✅ (4)
+
+[04/14/2023 18:31] Rammerhead Bot#5437
+🔴 <https://ilovereading.foreverfine.com> (direct_cname) by <@513441778356060199>
+
+{Reactions}
+✅ (5) ❌
+
+[04/14/2023 18:48] Rammerhead Bot#5437
+🔴 <https://imperialchinafacts.foreverfine.com> (direct_a_record) by <@513441778356060199>
+
+{Reactions}
+✅ (6)
+
+[04/15/2023 02:48] Rammerhead Bot#5437
+🔴 <https://kyslightyy.chickenkiller.com> (direct_cname) by <@995220319474286603>
+
+{Reactions}
+✅ (2) ❌ (3)
+
+[04/15/2023 03:40] Rammerhead Bot#5437
+🔴 <https://1865-civil-war-facts.emploi.cl> (direct_a_record) by <@513441778356060199>
+
+{Reactions}
+✅ (5) 😡 (2)
+
+[04/15/2023 19:07] Rammerhead Bot#5437
+🔴 <https://homeaccesscenter.ugli.se> (direct_cname) by <@456226577798135808>
+
+{Reactions}
+✅ (6) ❌ (2)
+
+[04/15/2023 23:21] Rammerhead Bot#5437
+🔴 <https://umblockedgamesforfree.mooo.com> (direct_cname) by <@935682861120495656>
+
+{Reactions}
+✅ (3) ❌ (5)
+
+[04/16/2023 16:46] Rammerhead Bot#5437
+🔴 <https://gobaldisacoolname.mooo.com> (direct_cname) by <@935682861120495656>
+
+{Reactions}
+❌ (4)
+
+[04/16/2023 18:53] Rammerhead Bot#5437
+🔴 <https://mathtutorial.twilightparadox.com> (direct_cname) by <@899034715028353104>
+
+{Reactions}
+❌ (3)
+
+[04/16/2023 20:07] Rammerhead Bot#5437
+🔴 <https://mussabchinofwke.abuser.eu> (direct_cname) by <@1062475360127688705>
+
+{Reactions}
+❌ (3)
+
+[04/16/2023 20:11] Rammerhead Bot#5437
+🔴 <https://mussabchinofwke.hbmc.net> (direct_cname) by <@1062475360127688705>
+
+{Reactions}
+❌ (3)
+
+[04/16/2023 20:21] Rammerhead Bot#5437
+🔴 <https://ihateschool.ignorelist.com> (direct_cname) by <@899034715028353104>
+
+{Reactions}
+❌ (3)
+
+[04/16/2023 21:35] Rammerhead Bot#5437
+🔴 <https://imasian.ftp.sh> (direct_cname) by <@899034715028353104>
+
+{Reactions}
+❌ (3)
+
+[04/16/2023 21:43] Rammerhead Bot#5437
+🔴 <https://imbored.undo.it> (direct_cname) by <@899034715028353104>
+
+{Reactions}
+❌ (3)
+
+[04/16/2023 22:10] Rammerhead Bot#5437
+🔴 <https://imasian.bot.nu> (direct_cname) by <@899034715028353104>
+
+{Reactions}
+❌ (3)
+
+[04/18/2023 23:37] Rammerhead Bot#5437
+🔴 <https://login.booket.foreverfine.com> (direct_cname) by <@1078784241099345960>
+
+{Reactions}
+✅ (10) 🍆 (6) 🍍 (5)
+
+[04/18/2023 23:47] Rammerhead Bot#5437
+🔴 <https://bms.starscene.com> (direct_cname) by <@1078784241099345960>
+
+{Reactions}
+✅ (5) 🚫 (2) ❌ (2)
+
+[04/20/2023 23:24] Rammerhead Bot#5437
+🔴 <https://isrelay-config-production.s3.amazonaws.com.hiscouch.com> (direct_cname) by <@957343617272414230>
+
+{Reactions}
+❌ (3) ✅ (4)
+
+[04/20/2023 23:34] Rammerhead Bot#5437
+🔴 <https://isrelay-config-production.tomahawkchurch.org> (direct_cname) by <@957343617272414230>
+
+{Reactions}
+dancingskeleton (4) dancingdoggo CatYes ✅ (3)
+
+[04/21/2023 03:32] Rammerhead Bot#5437
+🔴 <https://bmssucksatmath.academic.org.il> (direct_cname) by <@831722410701094973>
+
+{Reactions}
+❌ (10)
+
+[04/21/2023 16:26] Rammerhead Bot#5437
+🔴 <https://px.learnmathub.com> (direct_cname) by <@746070931306184826>
+
+{Reactions}
+❌ (3) ✅
+
+[04/21/2023 21:53] Rammerhead Bot#5437
+🔴 <https://derekisnothim.twilightparadox.com> (direct_cname) by <@763041350899728394>
+
+{Reactions}
+❌ (5)
+
+[04/22/2023 16:19] Rammerhead Bot#5437
+🔴 <https://lilbro.pagostepeapulco.gob.mx> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ (6)
+
+[04/22/2023 16:26] Rammerhead Bot#5437
+🔴 <https://skywardiscorp.iiiii.info> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (6)
+
+[04/22/2023 16:33] Rammerhead Bot#5437
+🔴 <https://canvas.freetruthordare.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (6)
+
+[04/22/2023 16:45] Rammerhead Bot#5437
+🔴 <https://math.sportseducationinstructors.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (4) ✅ (2)
+
+[04/22/2023 22:30] Rammerhead Bot#5437
+🔴 <https://thefogiscoming.h4ck.me> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (4)
+
+[04/22/2023 22:56] Rammerhead Bot#5437
+🔴 <https://rh.cheap-ass-domain.info> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 22:58] Rammerhead Bot#5437
+🔴 <https://bruh.cheap-ass-domain.info> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 23:05] Rammerhead Bot#5437
+🔴 <https://lol.cookieclickergame.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 23:13] Rammerhead Bot#5437
+🔴 <https://i-am-a.spacekiller.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 23:22] Rammerhead Bot#5437
+🔴 <https://i-am.death.cl> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 23:45] Rammerhead Bot#5437
+🔴 <https://test.lolomgwtfbbq.info> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 23:54] Rammerhead Bot#5437
+🔴 <https://goofyah.boxathome.net> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (2)
+
+[04/22/2023 23:57] Rammerhead Bot#5437
+🔴 <https://mathsite.n-e-t.name> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (3)
+
+[04/23/2023 00:01] Rammerhead Bot#5437
+🔴 <https://finland-history.fin-tech.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (4)
+
+[04/23/2023 00:20] Rammerhead Bot#5437
+🔴 <https://web.zerocoolgames.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3) ✅
+
+[04/23/2023 00:24] Rammerhead Bot#5437
+🔴 <https://cooltestingman.pogodragon.co.uk> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅ (3)
+
+[04/23/2023 00:37] Rammerhead Bot#5437
+🔴 <https://site.zerocoolgames.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2) ✅
+
+[04/23/2023 00:38] Rammerhead Bot#5437
+🔴 <https://browser.pagostepeapulco.gob.mx> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ (3)
+
+[04/23/2023 02:26] Rammerhead Bot#5437
+🔴 <https://freemath.punked.us> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 02:31] Rammerhead Bot#5437
+🔴 <https://securlycom.ix.tc> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ ❌ (3)
+
+[04/23/2023 02:41] Rammerhead Bot#5437
+🔴 <https://pythoncodingtipsschool.madhacker.biz> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 16:30] Rammerhead Bot#5437
+🔴 <https://freegeographyhelper.evils.in> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 16:45] Rammerhead Bot#5437
+🔴 <https://gradechecker.raspberryip.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/23/2023 16:47] Rammerhead Bot#5437
+🔴 <https://blockthisifyourmid.mcsoft.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/23/2023 16:52] Rammerhead Bot#5437
+🔴 <https://slides.google.com.inet2.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ ✅ (2)
+
+[04/23/2023 17:39] Rammerhead Bot#5437
+🔴 <https://fractionscalculator.socialistsushi.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ ❌
+
+[04/23/2023 17:43] Rammerhead Bot#5437
+🔴 <https://moneycalculator.findhousing.ru> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ ✅
+
+[04/23/2023 17:47] Rammerhead Bot#5437
+🔴 <https://rh.420690.xyz> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ ✅
+
+[04/23/2023 17:53] Rammerhead Bot#5437
+🔴 <https://rh.rammerheadmath.now.progressivecongressnews.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/23/2023 18:01] Rammerhead Bot#5437
+🔴 <https://amogus.cclemons.me> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/23/2023 18:22] Rammerhead Bot#5437
+🔴 <https://everyone.isageek.net> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/23/2023 18:25] Rammerhead Bot#5437
+🔴 <https://johnporks-mathgame.smathis.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/23/2023 18:33] Rammerhead Bot#5437
+🔴 <https://fractionsisfun.fun-boom.ru> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 19:02] Rammerhead Bot#5437
+🔴 <https://coolnewfruitfacts.ecodryfruits.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 19:28] Rammerhead Bot#5437
+🔴 <https://toptenwaterdrinks.iaminsideyourhouse.homeonthewater.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 22:11] Rammerhead Bot#5437
+🔴 <https://nowgg.issus.midjava.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 22:23] Rammerhead Bot#5437
+🔴 <https://mrbeastgaming.privatedns.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 22:41] Rammerhead Bot#5437
+🔴 <https://lightspeedismadsus.homeplex.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 22:51] Rammerhead Bot#5437
+🔴 <https://thenow.slides.francomedia.net> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (3)
+
+[04/23/2023 22:58] Rammerhead Bot#5437
+🔴 <https://wider.cooler.mal.360technologies.ca> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (2)
+
+[04/24/2023 03:34] Rammerhead Bot#5437
+🔴 <https://masteryscore.masteryourtest.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+nice (10) ❌ (3)
+
+[04/24/2023 20:37] Rammerhead Bot#5437
+🔴 <https://ihave50childreninmybasement.thechillistip.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+🇸 (2) 🅰️ (2) Ⓜ️ (2) 🇪 (2) ❌
+
+[04/24/2023 20:38] Rammerhead Bot#5437
+🔴 <https://funnymathpuns.funcli.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 20:42] Rammerhead Bot#5437
+🔴 <https://weeklymathtips.uggbootsale.net> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 20:43] Rammerhead Bot#5437
+🔴 <https://pq.l5.ca> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 20:47] Rammerhead Bot#5437
+🔴 <https://blockersare.shit.vc> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+🇸 (3) 🇭 (3) 🇮 (3) 🇹 (3) 👍 (2) ❌ (2)
+
+[04/24/2023 20:56] Rammerhead Bot#5437
+🔴 <https://earthscience.vankin.de> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 21:24] Rammerhead Bot#5437
+🔴 <https://cnn10.com.good-newz.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 21:24] Rammerhead Bot#5437
+🔴 <https://iann.medbury.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 21:25] Rammerhead Bot#5437
+🔴 <https://totallynebulaproxy.medbury.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 21:26] Rammerhead Bot#5437
+🔴 <https://whentheca.shut.up.qwerty.com.ar> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 21:31] Rammerhead Bot#5437
+🔴 <https://thisisacertifiedhoodclassic.nelsonshack.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+tlamCatBop (2) 🥔 (2) ❌
+
+[04/24/2023 21:37] Rammerhead Bot#5437
+🔴 <https://com.cloudranger.net> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+🫶 (2)
+
+[04/24/2023 21:59] Rammerhead Bot#5437
+🔴 <https://youmegasstation.grillgas.is> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ (3) ❌ (2)
+
+[04/24/2023 22:13] Rammerhead Bot#5437
+🔴 <https://whatarewegetting-sushiofcourse.mindhackers.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/24/2023 22:20] Rammerhead Bot#5437
+🔴 <https://uhoh-therewasaroofieinourgasstationsushi.ohbah.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+Verified (3) ❌
+
+[04/25/2023 22:36] Rammerhead Bot#5437
+🔴 <https://ps.ftp.sh> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (5)
+
+[04/25/2023 22:44] Rammerhead Bot#5437
+🔴 <https://realsense.patientlinktechnologies.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌ (5)
+
+[04/25/2023 23:45] Rammerhead Bot#5437
+🔴 <https://sinecosinetangentpractice.geobattery.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/25/2023 23:50] Rammerhead Bot#5437
+🔴 <https://globalhelper.cubeglobal.my> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/25/2023 23:50] Rammerhead Bot#5437
+🔴 <https://why.ok.mysmallgalaxy.ru> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/25/2023 23:51] Rammerhead Bot#5437
+🔴 <https://mcdonalds.depression-anxiety-assessment.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/25/2023 23:52] Rammerhead Bot#5437
+🔴 <https://nasa.com.facts.swhydro.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 00:00] Rammerhead Bot#5437
+🔴 <https://tk.svmblocker.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 00:01] Rammerhead Bot#5437
+🔴 <https://itsfreerealestate.utrealestatedreamteam.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 00:01] Rammerhead Bot#5437
+🔴 <https://h.okzk.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 00:02] Rammerhead Bot#5437
+🔴 <https://freealgebra.panel-laboralcj.gob.mx> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ (5)
+
+[04/26/2023 01:57] Rammerhead Bot#5437
+🔴 <https://doormat.stupid.stupid.stupid.doorsnknobs.net> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 01:59] Rammerhead Bot#5437
+🔴 <https://i-am-a.shitstudent.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 02:01] Rammerhead Bot#5437
+🔴 <https://i-have-a.shitteacher.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/26/2023 02:04] Rammerhead Bot#5437
+🔴 <https://youropinion.randomfuckingshitidontcareabout.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+lanschool (3) ❌
+
+[04/26/2023 20:34] Rammerhead Bot#5437
+🔴 <https://instantmathsupport.arhitect.it> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+✅ (5) Done_48px (7) ❌
+
+[04/26/2023 20:36] Rammerhead Bot#5437
+🔴 <https://to.slap.one.pl> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+👍 (2) Done_48px (5)
+
+[04/26/2023 20:40] Rammerhead Bot#5437
+🔴 <https://do-your-homework.paulsfamilyhistory.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+lanschool (4) ✅
+
+[04/26/2023 20:46] Rammerhead Bot#5437
+🔴 <https://higuys.chinapoem.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+Done_48px (5) ❌
+
+[04/27/2023 02:23] Rammerhead Bot#5437
+🔴 <https://josh.psybnc.org> (direct_cname) by <@790655345269145610>
+
+{Reactions}
+Done_48px (5) ❌ (2)
+
+[04/27/2023 11:51] Rammerhead Bot#5437
+🔴 <https://rh.fairuse.org> (direct_cname) by <@781387674614497290>
+
+{Reactions}
+hmm (5) ❌
+
+[04/27/2023 20:41] Rammerhead Bot#5437
+🔴 <https://guysmydaughterisintodoors.outdoormediahouse.com.np> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+💀 (3) ❌
+
+[04/27/2023 20:42] Rammerhead Bot#5437
+🔴 <https://shouldifeedthechildreninmybasement.feedcube.org> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+💀 (10) ❌ 🇳 🇦 🇭 ✅
+
+[04/28/2023 11:47] Rammerhead Bot#5437
+🔴 <https://math.now.wildone.ch> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+❌
+
+[04/28/2023 20:25] Rammerhead Bot#5437
+🔴 <https://thugshakercentral.windowpublication.com.np> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:05] Rammerhead Bot#5437
+🔴 <https://math.site.cobos.mx> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:05] Rammerhead Bot#5437
+🔴 <https://teachersdomain.axoon.cl> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:06] Rammerhead Bot#5437
+🔴 <https://why.fairuse.org> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:12] Rammerhead Bot#5437
+🔴 <https://robotics.inc.happyrobotics.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:13] Rammerhead Bot#5437
+🔴 <https://collegeapplication.designjobs.eu> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:13] Rammerhead Bot#5437
+🔴 <https://bug.folklandmanagement.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:14] Rammerhead Bot#5437
+🔴 <https://this-is-a.bad-domain.info> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:15] Rammerhead Bot#5437
+🔴 <https://takelessons.spanishlearning.com.ar> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:30] Rammerhead Bot#5437
+🔴 <https://mathpog89.epim.ar> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 17:44] Rammerhead Bot#5437
+🔴 <https://drive.gogle.c0m-061kgbnfiakfjn.fmhchile.cl> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 17:51] Rammerhead Bot#5437
+🔴 <https://sciencenetworki.fmhchile.cl> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 18:03] Rammerhead Bot#5437
+🔴 <https://r.beansmen890.imandar.com.np> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 18:04] Rammerhead Bot#5437
+🔴 <https://forensic-science.hancockcountyfoodpantry.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:04] Rammerhead Bot#5437
+🔴 <https://rh.dentistforyou.com.au> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:07] Rammerhead Bot#5437
+🔴 <https://higuysthisdomainislikereallylongsouhlikeicool.reason.org.nz> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:13] Rammerhead Bot#5437
+🔴 <https://hiddenthe.taaha.xyz> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 18:13] Rammerhead Bot#5437
+🔴 <https://iforgor.hacktinkercreate.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:16] Rammerhead Bot#5437
+🔴 <https://homeworkhelper.net.bloodforthebloodgod.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:19] Rammerhead Bot#5437
+🔴 <https://maxisaskid.y5k.info> (direct_a_record) by <@566770940881403924>
+
+
+[04/29/2023 18:23] Rammerhead Bot#5437
+🔴 <https://go0gleclassrooms.hmail.us> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:25] Rammerhead Bot#5437
+🔴 <https://okiwillbuckleyourshoes.fatemokid.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 18:28] Rammerhead Bot#5437
+🔴 <https://butterdog.answersbot.com> (direct_cname) by <@954840076272144384>
+
+
+[04/29/2023 19:05] Rammerhead Bot#5437
+🔴 <https://chatgptabuser.voltage.nz> (direct_a_record) by <@566770940881403924>
+
+
+[04/29/2023 19:10] Rammerhead Bot#5437
+🔴 <https://jg9aoajh90a0hm101-infaj9ga-hja.fcat.xyz> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 19:16] Rammerhead Bot#5437
+🔴 <https://aidaghji96-1gak601-61kgg1oih9hdkgoa-1i6khm.victor-pozo.com> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 19:59] Rammerhead Bot#5437
+🔴 <https://bfi9jasdfjhafiaf9.lumeacopiilorploiesti.ro> (direct_cname) by <@988646225727336508>
+
+
+[04/29/2023 21:39] Rammerhead Bot#5437
+🔴 <https://zaefarms.bad.mn> (direct_a_record) by <@566770940881403924>
+
+
+[04/29/2023 21:40] Rammerhead Bot#5437
+🔴 <https://gogle.wiki.gd> (direct_a_record) by <@566770940881403924>
+
+
+[04/30/2023 07:13] Rammerhead Bot#5437
+🔴 <https://mathingsite4.5thaurora.com> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:13] Rammerhead Bot#5437
+🔴 <https://sciencysite4.4webhelp.ca> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:13] Rammerhead Bot#5437
+🔴 <https://languagesite4.abnyx.com> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:14] Rammerhead Bot#5437
+🔴 <https://geologysite4.arterapia.com.ar> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:15] Rammerhead Bot#5437
+🔴 <https://historysite4.auditaautos.com.br> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:22] Rammerhead Bot#5437
+🔴 <https://mathingsite5.bogpet.ro> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:22] Rammerhead Bot#5437
+🔴 <https://sciencysite5.bistabhupendra.com.np> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:22] Rammerhead Bot#5437
+🔴 <https://geologysite5.chocant.com.br> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:23] Rammerhead Bot#5437
+🔴 <https://historysite5.exid.me> (direct_cname) by <@988646225727336508>
+
+
+[04/30/2023 07:51] Rammerhead Bot#5437
+🔴 <https://fdsiaadgfds.burgermap.org> (direct_a_record) by <@490763590341754890>
+
+
+[04/30/2023 07:52] Rammerhead Bot#5437
+🔴 <https://i-love.ham.gd> (direct_a_record) by <@490763590341754890>
+
+
+[04/30/2023 07:53] Rammerhead Bot#5437
+🔴 <https://fortnite.petromax.tw> (direct_a_record) by <@490763590341754890>
+
+
+[04/30/2023 17:15] Rammerhead Bot#5437
+🔴 <https://windywinter.winterhouse.info> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:16] Rammerhead Bot#5437
+🔴 <https://greathistory.socialnomad.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:17] Rammerhead Bot#5437
+🔴 <https://finddesign.legalmarketing.hk> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:18] Rammerhead Bot#5437
+🔴 <https://rh.thebrittainlawfirm.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:24] Rammerhead Bot#5437
+🔴 <https://sustainable.stormfood.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:25] Rammerhead Bot#5437
+🔴 <https://pricecalc.tool.carcano.me> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:25] Rammerhead Bot#5437
+🔴 <https://python.highdesertcoders.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:26] Rammerhead Bot#5437
+🔴 <https://duckfacts.telcomresearch.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:26] Rammerhead Bot#5437
+🔴 <https://mathtool.pristytools.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:35] Rammerhead Bot#5437
+🔴 <https://imgonnamake100subdomains.pchelp-24.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:36] Rammerhead Bot#5437
+🔴 <https://web.4webhelp.ca> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:37] Rammerhead Bot#5437
+🔴 <https://rh.campeonatosmunicipalesarroyomolinos.org> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:38] Rammerhead Bot#5437
+🔴 <https://securly.opaline.cl> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:38] Rammerhead Bot#5437
+🔴 <https://progressmath.rovislider.ro> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:43] Rammerhead Bot#5437
+🔴 <https://websurfer.nuggetgarage.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:44] Rammerhead Bot#5437
+🔴 <https://p-e.shanetrainfitness.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:44] Rammerhead Bot#5437
+🔴 <https://javascript.codingtheworld.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:45] Rammerhead Bot#5437
+🔴 <https://c-plus-plus.codingtheworld.eu> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:46] Rammerhead Bot#5437
+🔴 <https://c-sharp.codingtheworld.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:52] Rammerhead Bot#5437
+🔴 <https://mrbeast.toprank21.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:53] Rammerhead Bot#5437
+🔴 <https://free.bestprograms4kids.com.au> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:54] Rammerhead Bot#5437
+🔴 <https://free.bestprogramsforkids.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:55] Rammerhead Bot#5437
+🔴 <https://free.bestprogramsforkids.com.au> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 17:56] Rammerhead Bot#5437
+🔴 <https://t.lookids.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:02] Rammerhead Bot#5437
+🔴 <https://this-is-not-a.furryplace.eu> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:02] Rammerhead Bot#5437
+🔴 <https://felinefacts.bellyfatcat.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:03] Rammerhead Bot#5437
+🔴 <https://geo.ga.geocen.org> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:03] Rammerhead Bot#5437
+🔴 <https://blockedwebsite.dataon.cl> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:04] Rammerhead Bot#5437
+🔴 <https://waterlemons.dclemons.me> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:14] Rammerhead Bot#5437
+🔴 <https://tester.u-lock-it.info> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:14] Rammerhead Bot#5437
+🔴 <https://rh.noz.nz> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:15] Rammerhead Bot#5437
+🔴 <https://freeonlinebooks.thebookllc.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:15] Rammerhead Bot#5437
+🔴 <https://randomduckisunfunny.zoho.to> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:16] Rammerhead Bot#5437
+🔴 <https://bruh.zombiehitmen.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:31] Rammerhead Bot#5437
+🔴 <https://tk.cloudbarfbag.com> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:32] Rammerhead Bot#5437
+🔴 <https://we-are-the.republicofgamers.net> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:32] Rammerhead Bot#5437
+🔴 <https://rh.mario-lopes.pt> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:33] Rammerhead Bot#5437
+🔴 <https://gltypingthis.xn--fiqp3jtxe9n0a37aj1cr63a7x9c.tm> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 18:33] Rammerhead Bot#5437
+🔴 <https://lunchtime.lxnch.ro> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 19:48] Rammerhead Bot#5437
+🔴 <https://math.time.general-laser.bg> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 19:48] Rammerhead Bot#5437
+🔴 <https://rh.redlight.li> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 19:49] Rammerhead Bot#5437
+🔴 <https://find.tecteach.net> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 19:50] Rammerhead Bot#5437
+🔴 <https://dental.cgfile1.xyz> (direct_cname) by <@954840076272144384>
+
+
+[04/30/2023 20:09] Rammerhead Bot#5437
+🔴 <https://50thsubdomainlesgo.tth.cl> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 08:05] Rammerhead Bot#5437
+🔴 <https://b.mmkgroupesarl.com> (direct_cname) by <@490763590341754890>
+
+
+[05/01/2023 08:05] Rammerhead Bot#5437
+🔴 <https://itis.2023cai.com> (direct_cname) by <@490763590341754890>
+
+
+[05/01/2023 08:05] Rammerhead Bot#5437
+🔴 <https://mathsisfun.smathis.com> (direct_cname) by <@490763590341754890>
+
+
+[05/01/2023 08:06] Rammerhead Bot#5437
+🔴 <https://calculator.kooh.cl> (direct_cname) by <@490763590341754890>
+
+
+[05/01/2023 20:39] Rammerhead Bot#5437
+🔴 <https://themomentwhen.jaytex.org> (direct_cname) by <@1102692564089458789>
+
+
+[05/01/2023 20:49] Rammerhead Bot#5437
+🔴 <https://math.cow.ndra.biz> (direct_cname) by <@1102692564089458789>
+
+
+[05/01/2023 20:49] Rammerhead Bot#5437
+🔴 <https://mathscore.anthearn.me.uk> (direct_cname) by <@1102692564089458789>
+
+
+[05/01/2023 20:51] Rammerhead Bot#5437
+🔴 <https://this-is.enemyterritory.org> (direct_cname) by <@1102692564089458789>
+
+
+[05/01/2023 22:34] Rammerhead Bot#5437
+🔴 <https://aycockgotisslol.joefrance.org> (direct_cname) by <@784161042732154890>
+
+
+[05/01/2023 23:13] Rammerhead Bot#5437
+🔴 <https://edu.zearnmathixl.com.un.120v.ac> (direct_cname) by <@1059893594430902332>
+
+
+[05/01/2023 23:17] Rammerhead Bot#5437
+🔴 <https://edu.ixlmathflashcard.com.un.120v.ac> (direct_cname) by <@1059893594430902332>
+
+
+[05/01/2023 23:21] Rammerhead Bot#5437
+🔴 <https://edu.cleverportal.com.120v.ac> (direct_cname) by <@1059893594430902332>
+
+
+[05/01/2023 23:27] Rammerhead Bot#5437
+🔴 <https://edu.goguardianv4.com.120v.ac> (direct_cname) by <@1059893594430902332>
+
+
+[05/01/2023 23:33] Rammerhead Bot#5437
+🔴 <https://edu.priceiscoolest.is.120v.ac> (direct_cname) by <@1059893594430902332>
+
+
+[05/01/2023 23:43] Rammerhead Bot#5437
+🔴 <https://math.score.campminnetonka.ws> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:44] Rammerhead Bot#5437
+🔴 <https://word.list.dicionar.io> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:44] Rammerhead Bot#5437
+🔴 <https://flamingfastmath.flamex.hm> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:45] Rammerhead Bot#5437
+🔴 <https://there-is-a.giantrobotfactory.com> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:45] Rammerhead Bot#5437
+🔴 <https://greenenergy.facts.greentower.com.ar> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:52] Rammerhead Bot#5437
+🔴 <https://dailyquiz.master.fathur.club> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:53] Rammerhead Bot#5437
+🔴 <https://islamicfacts.islam.cl> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:53] Rammerhead Bot#5437
+🔴 <https://artclass.propaint.cl> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:54] Rammerhead Bot#5437
+🔴 <https://gamerclub.adventuregameclub.com> (direct_cname) by <@954840076272144384>
+
+
+[05/01/2023 23:54] Rammerhead Bot#5437
+🔴 <https://mentalhealthmatters.depression-anxiety-assessment.com> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+😭
+
+[05/02/2023 00:04] Rammerhead Bot#5437
+🔴 <https://ancientroman-map.imapp.ir> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:05] Rammerhead Bot#5437
+🔴 <https://bruh.xn--72cg7bdd3bro6b3ab9c8btw4x.com> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:05] Rammerhead Bot#5437
+🔴 <https://math.ca.ddnsking.eu> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:06] Rammerhead Bot#5437
+🔴 <https://rh.chicagoeveningpost.com> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:06] Rammerhead Bot#5437
+🔴 <https://laserfastmath.kitsos.ninja> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:34] Rammerhead Bot#5437
+🔴 <https://evidence.robofan.ro> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:35] Rammerhead Bot#5437
+🔴 <https://a.ra3.us> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:35] Rammerhead Bot#5437
+🔴 <https://math-hotline.joyphoto.ro> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:35] Rammerhead Bot#5437
+🔴 <https://math-equation.pros-landscaping-ma.com> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:36] Rammerhead Bot#5437
+🔴 <https://instant-math-help.mickspocket.com> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:43] Rammerhead Bot#5437
+🔴 <https://10thgrade-prep.xn--8prp2pima757g.tm> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:44] Rammerhead Bot#5437
+🔴 <https://9thgrade-prep.firepig.net> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:44] Rammerhead Bot#5437
+🔴 <https://8thgrade-prep.firepig.net> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:45] Rammerhead Bot#5437
+🔴 <https://7thgrade-prep.firepig.net> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 00:45] Rammerhead Bot#5437
+🔴 <https://6thgrade-prep.firepig.net> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 12:27] Rammerhead Bot#5437
+🔴 <https://find.now.delreal.cl> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 13:35] Rammerhead Bot#5437
+🔴 <https://tree.hec.to> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 13:36] Rammerhead Bot#5437
+🔴 <https://test.com.black-mail.com.au> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:06] Rammerhead Bot#5437
+🔴 <https://history-class.sharetext.net> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:09] Rammerhead Bot#5437
+🔴 <https://explanation.now.charmedmultimedia.eu> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:09] Rammerhead Bot#5437
+🔴 <https://wildcardd.koakh.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:09] Rammerhead Bot#5437
+🔴 <https://stealthh.wooloo.net> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:19] Rammerhead Bot#5437
+🔴 <https://rh.isyour.guru> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:20] Rammerhead Bot#5437
+🔴 <https://find.ca.russian-glass.ru> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:21] Rammerhead Bot#5437
+🔴 <https://elemental.starscene.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:21] Rammerhead Bot#5437
+🔴 <https://mexico-history.insamexico.com.mx> (direct_cname) by <@1102692564089458789>
+
+{Reactions}
+❌
+
+[05/02/2023 18:30] Rammerhead Bot#5437
+🔴 <https://racingfast-math.e1-racecar.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:31] Rammerhead Bot#5437
+🔴 <https://supreme-math.daveengineer.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:32] Rammerhead Bot#5437
+🔴 <https://factor.brokenfuture.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 18:38] Rammerhead Bot#5437
+🔴 <https://not.cookieclickergame.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/02/2023 21:14] Rammerhead Bot#5437
+🔴 <https://edu.sciencereviewcards.uk.ms> (direct_cname) by <@1059893594430902332>
+
+
+[05/02/2023 21:17] Rammerhead Bot#5437
+🔴 <https://edu.cantblockme.kms.uk.ms> (direct_cname) by <@1059893594430902332>
+
+
+[05/02/2023 21:19] Rammerhead Bot#5437
+🔴 <https://edu.chris.site.com.uk.ms> (direct_cname) by <@1059893594430902332>
+
+
+[05/02/2023 21:24] Rammerhead Bot#5437
+🔴 <https://edu.rjmsite.com.uk.ms> (direct_cname) by <@1059893594430902332>
+
+
+[05/02/2023 21:29] Rammerhead Bot#5437
+🔴 <https://edu.me.and.daboys.uk.ms> (direct_cname) by <@1059893594430902332>
+
+
+[05/02/2023 23:33] Rammerhead Bot#5437
+🔴 <https://take.ca.isthatanupgrade.com> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 23:34] Rammerhead Bot#5437
+🔴 <https://math-paper.qualitypaperindustries.com.np> (direct_cname) by <@954840076272144384>
+
+{Reactions}
+🤑
+
+[05/02/2023 23:34] Rammerhead Bot#5437
+🔴 <https://5.2028.cl> (direct_cname) by <@954840076272144384>
+
+
+[05/02/2023 23:34] Rammerhead Bot#5437
+🔴 <https://96.3368668.com> (direct_cname) by <@954840076272144384>
+
+
+[05/03/2023 17:22] Rammerhead Bot#5437
+🔴 <https://scientific-calculator.brazmail.net> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 17:22] Rammerhead Bot#5437
+🔴 <https://nasa.planetary-drives.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 17:23] Rammerhead Bot#5437
+🔴 <https://math.test.prayerforworldpeace.com> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 17:23] Rammerhead Bot#5437
+🔴 <https://gemstone.pearlstorehouse.net> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:02] Rammerhead Bot#5437
+🔴 <https://gogle-docs.reenter-docs.info> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:02] Rammerhead Bot#5437
+🔴 <https://ffm.dotlamp.us> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:02] Rammerhead Bot#5437
+🔴 <https://5thgrade-prep.firepig.net> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:06] Rammerhead Bot#5437
+🔴 <https://rh.gmk.cl> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:06] Rammerhead Bot#5437
+🔴 <https://a.gmk.cl> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:11] Rammerhead Bot#5437
+🔴 <https://reading-rocks.greenthreads.hr> (direct_cname) by <@1102692564089458789>
+
+
+[05/03/2023 18:16] Rammerhead Bot#5437
+🔴 <https://education.eduarmor.com> (direct_cname) by <@1102692564089458789>
+
+{Reactions}
+🙏 (9)
+
+[05/04/2023 01:27] Rammerhead Bot#5437
+🔴 <https://bruh-facts.botar.uk> (direct_cname) by <@954840076272144384>
+
+
+[05/04/2023 01:27] Rammerhead Bot#5437
+🔴 <https://now.qe.cquality.ir> (direct_cname) by <@954840076272144384>
+
+
+[05/04/2023 03:07] Rammerhead Bot#5437
+🔴 <https://ducky.escuelabahiamansa.cl> (direct_cname) by <@654884020378664960>
+
+
+[05/04/2023 04:54] Rammerhead Bot#5437
+🔴 <https://cramp-reliefs.itdoctor.ro> (direct_cname) by <@513441778356060199>
+
+
+[05/04/2023 12:34] Rammerhead Bot#5437
+🔴 <https://rh.sus.ix.tc> (direct_cname) by <@865970902626074655>
+
+
+[05/04/2023 20:23] Rammerhead Bot#5437
+🔴 <https://whitmanhater567.jumpingcrab.com> (direct_cname) by <@1040004959187513476>
+
+
+[05/04/2023 20:24] Rammerhead Bot#5437
+🔴 <https://melvin.begreenhome.be> (direct_cname) by <@656621583988817941>
+
+
+[05/05/2023 02:43] Rammerhead Bot#5437
+🔴 <https://ihave52kidsinmybasementong.basketcraft.xyz> (direct_cname) by <@925430447050207294>
+
+{Reactions}
+😳 (4) 👍
+
+[05/05/2023 02:46] Rammerhead Bot#5437
+🔴 <https://r.basketcraft.xyz> (direct_cname) by <@925430447050207294>
+
+
+[05/05/2023 02:46] Rammerhead Bot#5437
+🔴 <https://yhnmath.basketcraft.xyz> (direct_cname) by <@925430447050207294>
+
+
+[05/05/2023 02:47] Rammerhead Bot#5437
+🔴 <https://google-classroom.basketcraft.xyz> (direct_cname) by <@925430447050207294>
+
+
+[05/05/2023 11:10] Rammerhead Bot#5437
+🔴 <https://miners.basketcraft.net> (direct_cname) by <@925430447050207294>
+
+{Reactions}
+thinkwooo (8)
+
+[05/05/2023 11:10] Rammerhead Bot#5437
+🔴 <https://r.basketcraft.net> (direct_cname) by <@925430447050207294>
+
+
+==============================================================
+Exported 400 message(s)
+==============================================================
